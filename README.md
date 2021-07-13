@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MelnikovAP
+- 👋 Hi, I’m @MelnikovAP / Melnikov Alexey
 - 📫 melnikov.al.pe@gmail.com
 
 <!---
